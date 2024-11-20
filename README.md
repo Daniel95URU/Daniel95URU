@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/email-open.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
+  <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
