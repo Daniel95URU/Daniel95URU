@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="[alt Text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDcYIZlKwT99wgXysWx0NRtMloKGmdWwjoEqRdwWVDY8CgV3_FV6Fbn9y5RpX2lrOu4eVqVmhXlj9DM1KcO-HRsVlSst1hor8_4nKsod4hZpK-GzEkLUC0heIqyhE8-H5YYfyXBOYNLb4/s400/tumblr_inline_nt2rwc7x4m1tr21jj_540.jpg)" alt="Profile Background" style="width: 100%; max-width: 100%;">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDcYIZlKwT99wgXysWx0NRtMloKGmdWwjoEqRdwWVDY8CgV3_FV6Fbn9y5RpX2lrOu4eVqVmhXlj9DM1KcO-HRsVlSst1hor8_4nKsod4hZpK-GzEkLUC0heIqyhE8-H5YYfyXBOYNLb4/s400/tumblr_inline_nt2rwc7x4m1tr21jj_540.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
 </div>
 <br />
 <p align="center">
